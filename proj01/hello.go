@@ -1,8 +1,8 @@
 package main
 
 import (
-	"demo/proj01/lib"
 	"fmt"
+	"go-testing/proj01/lib"
 	"log"
 )
 
